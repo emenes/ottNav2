@@ -1,4 +1,4 @@
-# 📺 OTT Navigator Playlist - ottNav2
+# 📺 OTT Navigator Playlist
 
 This repository provides a custom IPTV playlist for **OTT Navigator**.  
 All streams are free-to-air channels and radio stations in Malaysia.  
