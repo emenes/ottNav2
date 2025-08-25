@@ -61,9 +61,6 @@ https://emenes.github.io/ottNav2/channels/DewanNegara/index.m3u8
 #EXTINF:-1 group-title="siaranMy" tvg-id="CartoonNetwork" tvg-logo="https://emenes.github.io/ottNav2/logo/CN.png",CartoonNetwork
 https://emenes.github.io/ottNav2/channels/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="siaranMy" tvg-logo="https://emenes.github.io/ottNav2/logo/enjoytv5.png", 109 Enjoy TV5
-https://emenes.github.io/ottNav2/channels/Tv5/index.m3u8
-
 
 #======ADD-ON-CHANNELS====
 
