@@ -24,10 +24,12 @@ All streams are free-to-air channels and radio stations in Malaysia.
 ### 1. Playlist
 Add this URL to your OTT Navigator inside Provider (or any IPTV player):
 `https://emenes.github.io/ottNav2/mainIndex.m3u8`
+Shortened: `https://bit.ly/emenes-ottnav2-mainindex`
 
 ### 2. EPG (TV Guide)
 Link to the EPG file:
 `https://emenes.github.io/ottNav2/epg/epg.xml`
+Shortened: `https://bit.ly/emenes-ottnav2-epg`
 
 
 
