@@ -22,7 +22,7 @@ All streams are free-to-air channels and radio stations in Malaysia.
 ## 🚀 Usage Guide & How to use
 
 ### 1. Playlist
-Add this URL to your OTT Navigator inside Provider (or any IPTV player):
+Add this URL to your OTT Navigator inside Provider section (or any IPTV player):
 `https://emenes.github.io/ottNav2/mainIndex.m3u8`
 - Shortened: `https://bit.ly/emenes-ottnav2-mainindex`
 
