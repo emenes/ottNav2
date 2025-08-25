@@ -15,7 +15,7 @@ All streams are free-to-air channels and radio stations in Malaysia.
 - `radio/` - streaming files for radio stations  
 - `logo/` - channel & radio logos  
 - `epg/` - Electronic Program Guide (EPG) in `.xml` and compressed `.xml.gz`  
-- `index.m3u8` — main playlist file  
+- `mainIndex.m3u8` — main playlist file  
 
 ---
 
@@ -23,7 +23,7 @@ All streams are free-to-air channels and radio stations in Malaysia.
 
 ### 1. Playlist
 Add this URL to your OTT Navigator inside Provider (or any IPTV player):
-`https://emenes.github.io/ottNav2/index.m3u8`
+`https://emenes.github.io/ottNav2/mainIndex.m3u8`
 
 ### 2. EPG (TV Guide)
 Link to the EPG file:
