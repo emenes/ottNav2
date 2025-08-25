@@ -87,7 +87,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://emenes.github.io/ottNav2/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="ADD-ON-MOVIES" tvg-logo="https://emenes.github.io/ottNav2/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
