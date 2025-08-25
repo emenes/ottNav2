@@ -1,0 +1,104 @@
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/emenes/ottNav2/main/epg/epg.xml",tvg-url="https://raw.githubusercontent.com/emenes/ottNav2/main/epg/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv1.png",TV1
+https://emenes.github.io/ottNav2/channels/Tv1/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv2.png",TV2
+https://emenes.github.io/ottNav2/channels/Tv2/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv3.png",TV3
+https://emenes.github.io/ottNav2/channels/Tv3/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://emenes.github.io/ottNav2/logo/OkeyTv.png",Okey Tv
+https://emenes.github.io/ottNav2/channels/TvOkey/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv6.png",TV6
+https://emenes.github.io/ottNav2/channels/Tv6/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://emenes.github.io/ottNav2/logo/DidikTv.png",DidikTv KPM
+https://emenes.github.io/ottNav2/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://emenes.github.io/ottNav2/logo/8tv.png",8TV
+https://emenes.github.io/ottNav2/channels/8tv/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv9.png",TV9
+https://emenes.github.io/ottNav2/channels/Tv9/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://emenes.github.io/ottNav2/logo/BeritaRtm.png",BERITA RTM
+https://emenes.github.io/ottNav2/channels/BeritaRTM/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://emenes.github.io/ottNav2/logo/SukanRtm.png",SUKAN RTM
+https://emenes.github.io/ottNav2/channels/SukanRTM/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://emenes.github.io/ottNav2/logo/Bernama.png",BERNAMA
+https://emenes.github.io/ottNav2/channels/Bernama/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVS" tvg-logo="https://emenes.github.io/ottNav2/logo/Tvs.jpg",TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://emenes.github.io/ottNav2/logo/TvIkim.png", TV Ikim
+https://emenes.github.io/ottNav2/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://emenes.github.io/ottNav2/logo/AstroAwani.png", Astro Awani
+https://emenes.github.io/ottNav2/channels/AstroAwani/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://emenes.github.io/ottNav2/logo/DuniaSinema.png", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://emenes.github.io/ottNav2/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://emenes.github.io/ottNav2/logo/TvAlhijrah.png", Tv Alhijrah
+https://emenes.github.io/ottNav2/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://emenes.github.io/ottNav2/logo/RTMParlimen.png",Dewan Rakyat
+https://emenes.github.io/ottNav2/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://emenes.github.io/ottNav2/logo/RTMParlimen.png",DewanNegara
+https://emenes.github.io/ottNav2/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="CartoonNetwork" tvg-logo="https://emenes.github.io/ottNav2/logo/CN.png",CartoonNetwork
+https://emenes.github.io/ottNav2/channels/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/HotFm.png",Hot Fm
+https://emenes.github.io/ottNav2/radio/HotFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/bestfm.png",Best Fm
+https://emenes.github.io/ottNav2/radio/BestFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Buletin FM" tvg-name="Buletin Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/BuletinFm.png",Buletin Fm
+https://emenes.github.io/ottNav2/radio/BuletinFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/Era.png",Era
+https://emenes.github.io/ottNav2/radio/Era/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Fly FM" tvg-name="Fly Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/FlyFm.png",Fly Fm
+https://emenes.github.io/ottNav2/radio/FlyFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Hitz FM" tvg-name="Hitz Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/HitzFm.png",Hitz Fm
+https://emenes.github.io/ottNav2/radio/HitzFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Johor FM" tvg-name="Johor FM" tvg-logo="https://emenes.github.io/ottNav2/logo/JohorFm.png",Johor Fm
+https://emenes.github.io/ottNav2/radio/JohorFm/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/NasionalFm.png",NasionalFm
+https://emenes.github.io/ottNav2/radio/NasionalFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Klasik FM" tvg-name="Radio Klasik" tvg-logo="https://emenes.github.io/ottNav2/logo/RadioKlasik.png",Radio Klasik
+https://emenes.github.io/ottNav2/radio/RadioKlasik/playlist.m3u8
+ 
+#EXTINF:-1 group-title="radio" tvg-id="Sinar FM" tvg-name="Sinar Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/SinarFm.png",SinarFm
+https://emenes.github.io/ottNav2/radio/SinarFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Suria FM" tvg-name="Suria Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/Suria.png",SuriaFm
+https://emenes.github.io/ottNav2/radio/SuriaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/RiaFm.png",Ria897Fm
+https://emenes.github.io/ottNav2/radio/RiaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Asyik FM" tvg-name="Asyik Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/AsyikFm.png",AsyikFm
+https://emenes.github.io/ottNav2/radio/AsyikFm/playlist.m3u8
+
+#EXTINF:-1 group-title="radio" tvg-id="Eight FM" tvg-name="8 Fm" tvg-logo="https://emenes.github.io/ottNav2/logo/8Fm.png",8Fm
+https://emenes.github.io/ottNav2/radio/8Fm/playlist.m3u8
