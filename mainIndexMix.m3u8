@@ -67,13 +67,42 @@ https://emenes.github.io/ottNav2/channels/Tv5/index.m3u8
 
 #======ADD-ON-CHANNELS====
 
+#EXTINF:-1 group-logo="" group-title="ADD-ON-CHANNELS" tvg-id="112.unifi" ch-number="113" tvg-logo="https://emenes.github.io/ottNav2/logo/salamhd.png" group-logo="",112 Salam HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=salamhd
+
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="ADD-ON-CHANNELS" group-logo="" tvg-logo="https://emenes.github.io/ottNav2/logo/awani.png",113 Awani
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=awani
+
+#EXTINF:-1 tvg-id="106.astro" tvg-name="Oasis" group-title="ADD-ON-CHANNELS" group-logo="" tvg-logo="https://emenes.github.io/ottNav2/logo/oasis.png" ,115 Oasis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
+
+#EXTINF:-1 group-logo="" group-title="ADD-ON-CHANNELS" tvg-id="105.astro" tvg-logo="https://emenes.github.io/ottNav2/logo/citra.png" ,121 Citra
+#Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+#Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_master.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
+
+
+#======ADD-ON-MOVIES====
+
 #EXTINF:-1 group-logo="" group-title="ADD-ON-CHANNELS" tvg-id="" tvg-logo="https://emenes.github.io/ottNav2/logo/hbohd.png" ,141 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
-
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="ADD-ON-CHANNELS" group-logo="" tvg-logo="https://emenes.github.io/ottNav2/logo/hbohits.png",142 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
