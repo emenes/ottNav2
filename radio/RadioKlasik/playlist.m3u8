@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:10,
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
+#EXTINF:10
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
+#EXTINF:10
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC
