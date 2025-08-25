@@ -65,9 +65,9 @@ https://emenes.github.io/ottNav2/channels/CartoonNetwork/index.m3u8
 https://emenes.github.io/ottNav2/channels/Tv5/index.m3u8
 
 
-#======ADD-ON-MOVIES====
+#======ADD-ON-CHANNELS====
 
-#EXTINF:-1 group-logo="" group-title="ADD-ON-MOVIES" tvg-id="" tvg-logo="https://emenes.github.io/ottNav2/logo/hbohd.png" ,141 HBO
+#EXTINF:-1 group-logo="" group-title="ADD-ON-CHANNELS" tvg-id="" tvg-logo="https://emenes.github.io/ottNav2/logo/hbohd.png" ,141 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -75,14 +75,14 @@ https://emenes.github.io/ottNav2/channels/Tv5/index.m3u8
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
 
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="ADD-ON-MOVIES" group-logo="" tvg-logo="https://emenes.github.io/ottNav2/logo/hbohits.png",142 HBO HITS
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="ADD-ON-CHANNELS" group-logo="" tvg-logo="https://emenes.github.io/ottNav2/logo/hbohits.png",142 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbohits
 
-#EXTINF:-1 group-logo="" group-title="ADD-ON-MOVIES" tvg-id="414.astro" tvg-logo="https://emenes.github.io/ottNav2/logo/hbofamily.png" ,144 HBO Family  
+#EXTINF:-1 group-logo="" group-title="ADD-ON-CHANNELS" tvg-id="414.astro" tvg-logo="https://emenes.github.io/ottNav2/logo/hbofamily.png" ,144 HBO Family  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -90,7 +90,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="ADD-ON-MOVIES" tvg-logo="https://emenes.github.io/ottNav2/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="ADD-ON-CHANNELS" tvg-logo="https://emenes.github.io/ottNav2/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
