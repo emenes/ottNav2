@@ -36,9 +36,10 @@ Link to the EPG file:
 ---
 
 ## 📌 Notes
-- The playlist uses **`group-title`** to organize channels into categories, e.g. `TV Malaysia`, `Radio`, `Cartoon`.  
+- The playlist uses **`group-title`** to organize channels into categories.  
 - File structure is kept modular (each channel has its own folder).  
 - You are welcome to fork this repo and build your own custom playlist.  
+- Anyone using this repository agrees to use it for personal purposes only and not for resale, as stated in the Disclaimer.  
 
 ---
 
@@ -53,3 +54,4 @@ This repository, including its M3U8 playlists and related files, was originally 
 It is published on GitHub only as a convenient storage and version control solution.  
 No ownership is claimed over any third-party content, and I do not provide any guarantees regarding availability, accuracy, or continued functionality of the streams.  
 Use of this repository or its contents by others is entirely at their own discretion and responsibility.
+Not for resale and for personal-use purposes only
