@@ -1,25 +1,25 @@
-# 📺 OTT Navigator Playlist — ottNav2
+# 📺 OTT Navigator Playlist - ottNav2
 
-This repository provides a custom IPTV playlist for **OTT Navigator** (and other IPTV players such as TiviMate, Kodi, VLC).  
+This repository provides a custom IPTV playlist for **OTT Navigator**.  
 All streams are free-to-air channels and radio stations in Malaysia.  
 
 > ⚠️ **Disclaimer**:  
 > - All channels here are free-to-access and **must not be sold**.  
 > - This project is for educational and personal use only.  
-> - Main reference: [MIFNtechnology/siaranMy](https://github.com/MIFNtechnology/siaranMy) — full credit to them for inspiration.
+> - Main reference: [MIFNtechnology/siaranMy](https://github.com/MIFNtechnology/siaranMy) - full credit to them for inspiration and big reference.
 
 ---
 
 ## 📂 Repository Structure
-- `channels/` — streaming files for each TV channel  
-- `radio/` — streaming files for radio stations  
-- `logo/` — channel & radio logos  
-- `epg/` — Electronic Program Guide (EPG) in `.xml` and compressed `.xml.gz`  
+- `channels/` - streaming files for each TV channel  
+- `radio/` - streaming files for radio stations  
+- `logo/` - channel & radio logos  
+- `epg/` - Electronic Program Guide (EPG) in `.xml` and compressed `.xml.gz`  
 - `index.m3u8` — main playlist file  
 
 ---
 
-## 🚀 Usage Guide
+## 🚀 Usage Guide & How to use
 
 ### 1. Playlist
 Add this URL to your OTT Navigator inside Provider (or any IPTV player):
