@@ -15,7 +15,7 @@ All streams are free-to-air channels and radio stations in Malaysia.
 - `radio/` - streaming files for radio stations  
 - `logo/` - channel & radio logos  
 - `epg/` - Electronic Program Guide (EPG) in `.xml` and compressed `.xml.gz`  
-- `mainIndex.m3u8` — main playlist file  
+- `mainIndex.m3u8` - main playlist file  
 
 ---
 
