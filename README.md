@@ -47,3 +47,9 @@ Link to the EPG file:
 - Maintained by [Emenes](https://github.com/emenes)  
 
 ---
+
+## Disclaimer
+This repository, including its M3U8 playlists and related files, was originally created solely for my personal use.  
+It is published on GitHub only as a convenient storage and version control solution.  
+No ownership is claimed over any third-party content, and I do not provide any guarantees regarding availability, accuracy, or continued functionality of the streams.  
+Use of this repository or its contents by others is entirely at their own discretion and responsibility.
