@@ -116,15 +116,20 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cinemax
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://emenes.github.io/ottNav2/logo/studiouniversal.png" group-title="MOVIES",159 Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://emenes.github.io/ottNav2/logo/studiouniversal.png" group-title="ADD-ON-MOVIES",159 Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
 
-#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://emenes.github.io/ottNav2/logo/cinemaworld.png", 155 CINEMAWORLD
+#EXTINF:-1 tvg-id="" group-title="ADD-ON-MOVIES" tvg-logo="https://emenes.github.io/ottNav2/logo/cinemaworld.png", 155 CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="ADD-ON-MOVIES" group-logo="" tvg-logo="https://emenes.github.io/ottNav2/logo/hitsmovies.png",163 HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
 
 
 #======ADD-ON-ENT====
