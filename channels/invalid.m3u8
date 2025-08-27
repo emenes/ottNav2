@@ -181,6 +181,21 @@ https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://emenes.github.io/ottNav2/logo/failarmyint.png" group-title="ADD-ON-ENT",Failarmy International
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Adventure.Earth.AU" group-title="ADD-ON-ENT", Adventure Earth (AU)
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Autentic.History.AU" group-title="ADD-ON-ENT",Autentic History (AU)
+https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Autentic.Travel.AU" group-title="ADD-ON-ENT",Autentic Travel (AU)
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mytime.Movie.Network" group-title="ADD-ON-ENT",Mytime Movie Network (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovient-lgau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten.Viki.US" group-title="ADD-ON-ENT",Rakuten Viki (US)
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+
 
 #======ADD-ON-KIDS====
 
@@ -206,8 +221,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://emenes.github.io/ottNav2/logo/babysharktv.png" group-title="ADD-ON-KIDS",Baby Shark TV (720p)
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BabySharkTV.AU" tvg-logo="https://emenes.github.io/ottNav2/logo/babysharktv.png" group-title="ADD-ON-KIDS",Baby Shark TV (AU)
+https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://emenes.github.io/ottNav2/logo/nickjreast.png" group-title="ADD-ON-KIDS",Nick Jr East
 https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="Super.Wings" tvg-logo="https://emenes.github.io/ottNav2/logo/superwing.png" group-title="ADD-ON-KIDS",Super Wings (US)
+https://jansonmedia-superwings-1-us.lg.wurl.tv/playlist.m3u8
 
 
 #======ADD-ON-SPORTS====
