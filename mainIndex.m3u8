@@ -13,6 +13,20 @@ https://emenes.github.io/ottNav2/channels/Tv2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
+#EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="siaranMy" tvg-logo="https://emenes.github.io/ottNav2/logo/tv3.png",103 TV3 HD (B)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
+https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3unifi
+
+#EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="siaranMy" tvg-logo="https://emenes.github.io/ottNav2/logo/tv3.png",103 TV3 (C)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
+
 #EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://emenes.github.io/ottNav2/logo/OkeyTv.png",Okey Tv
 https://emenes.github.io/ottNav2/channels/TvOkey/index.m3u8
 
