@@ -8,8 +8,26 @@ https://emenes.github.io/ottNav2/channels/Tv1/index.m3u8
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv2.png",TV2
 https://emenes.github.io/ottNav2/channels/Tv2/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv3.png",TV3
-https://emenes.github.io/ottNav2/channels/Tv3/index.m3u8
+#EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="siaranMy" tvg-logo="https://emenes.github.io/ottNav2/logo/tv3.png",103 TV3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/unifilicense
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
+
+#EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="siaranMy" tvg-logo="https://emenes.github.io/ottNav2/logo/tv3.png",103 TV3 HD (B)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
+https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3unifi
+
+#EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="siaranMy" tvg-logo="https://emenes.github.io/ottNav2/logo/tv3.png",103 TV3 (C)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://emenes.github.io/ottNav2/logo/OkeyTv.png",Okey Tv
 https://emenes.github.io/ottNav2/channels/TvOkey/index.m3u8
@@ -20,8 +38,13 @@ https://emenes.github.io/ottNav2/channels/Tv6/index.m3u8
 #EXTINF:-1 group-title="siaranMy" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://emenes.github.io/ottNav2/logo/DidikTv.png",DidikTv KPM
 https://emenes.github.io/ottNav2/channels/DidikTvKPM/index.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://emenes.github.io/ottNav2/logo/8tv.png",8TV
-https://emenes.github.io/ottNav2/channels/8tv/index.m3u8
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="siaranMy"  tvg-logo="https://emenes.github.io/ottNav2/logo/8tv.png",105 8TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://emenes.github.io/ottNav2/logo/Tv9.png",TV9
 https://emenes.github.io/ottNav2/channels/Tv9/index.m3u8
@@ -88,12 +111,6 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwE
 
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://emenes.github.io/ottNav2/logo/animeallday.png" group-title="ADD-ON-CHANNELS",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
-
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="ADD-ON-CHANNELS" tvg-id="106.astro" tvg-logo="https://emenes.github.io/ottNav2/logo/oasis.png" ,115 Oasis
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="ADD-ON-CHANNELS" tvg-id="105.astro" tvg-logo="https://emenes.github.io/ottNav2/logo/primafhd.png" ,118 Prima C FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
